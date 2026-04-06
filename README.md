@@ -1,4 +1,4 @@
-# Opus-Lite is a fork of Opus OS designed to be a more lightweight. 
+# Opus-Lite is a fork of Opus OS designed to be a more lightweight alternative. 
 
 <img src="https://github.com/kepler155c/opus-wiki/blob/master/assets/images/opus.gif?raw=true" width="540" height="360">
 
